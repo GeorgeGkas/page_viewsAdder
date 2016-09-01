@@ -23,7 +23,7 @@ pip install selenium
 
 To run the script type:
 ```
-python views_bot.py <url> <Number>
+python viewsAdder.py <url> <Number>
 ```
 
 where **< url >** is the page url you want to add the views and **< Number >** is the number of views you want to add.
